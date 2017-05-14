@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GitHubSearch</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="error_message">Some problem during loading users happened.\nCheck your internet connection or try again later.</string>
+    <string name="loading_info">Loading...</string>
+    <string name="nofavs_info">No users saved in favourites.\nLong click on user for adding to or removing from favourites.\nSuggestions are saved when you submit your search query (click on search or enter icon on your screen keyboard for this).\nMany of connection problems are because of GitHub\'s API limits. Just wait and try again.</string>
+    <string name="welcome_info">Please, input the keyword.\nLong click on user for adding to or removing from favourites.\nSuggestions are saved when you submit your search query (click on search or enter icon on your screen keyboard for this).\nMany of connection problems are because of GitHub\'s API limits. Just wait and try again.</string>
+    <string name="notfound_info">No users found</string>
+    
+    <string name="nobio">This user has not written bio.</string>
+
+    <string name="actionbar_title">GitHub Search</string>
+    <string name="author">by Anton Rigin</string>
+
+    <string name="preferences_file_name">preferences</string>
+    
+</resources>
